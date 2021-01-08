@@ -8,7 +8,7 @@ That is indeed the case. All rights reserved, as far as the code is concerned.
 
 Art and sound assets are released under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), a summary of which can be found at: https://creativecommons.org/licenses/by-sa/4.0/
 
-©2015-2020 BRForgers Team / The Brazillian Forgers Team
+©2015-2021 BRForgers Team / The Brazillian Forgers Team
 
 #### Notice
 
@@ -42,4 +42,4 @@ Don't be a jerk.
 
 This license is based on CoFH DBaJ license.
 
-©2015-2020 BRForgers Team / The Brazillian Forgers Team
+©2015-2021 BRForgers Team / The Brazillian Forgers Team
